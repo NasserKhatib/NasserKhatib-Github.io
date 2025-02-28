@@ -794,10 +794,7 @@ engine
 spring_animation
 tonic
 txt
-<<<<<<< HEAD
 url_launcher_web
-=======
->>>>>>> 231f45ae943984e673d47ce16a7c5d48691c8b21
 web_test_fonts
 web_unicode
 
@@ -1719,7 +1716,6 @@ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
 ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
 animate_do
 
 MIT License
@@ -1744,8 +1740,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
-=======
->>>>>>> 231f45ae943984e673d47ce16a7c5d48691c8b21
 async
 collection
 stream_channel
@@ -6764,7 +6758,6 @@ path_provider_linux
 path_provider_platform_interface
 path_provider_windows
 plugin_platform_interface
-<<<<<<< HEAD
 url_launcher
 url_launcher_android
 url_launcher_ios
@@ -6772,8 +6765,6 @@ url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
 url_launcher_windows
-=======
->>>>>>> 231f45ae943984e673d47ce16a7c5d48691c8b21
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -31152,7 +31143,6 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
-<<<<<<< HEAD
 platform_detect
 
                                  Apache License
@@ -31358,8 +31348,6 @@ platform_detect
    limitations under the License.
 
 --------------------------------------------------------------------------------
-=======
->>>>>>> 231f45ae943984e673d47ce16a7c5d48691c8b21
 rapidjson
 
 Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip-> All rights reserved->
